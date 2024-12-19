@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.Backbutton{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+}
+#div_data{
+    background-color: rgb(51, 8, 8);
+    color: white;
+    padding: 20px;
+}
+header{
+    border: solid black 3px;
+    background-color: rgb(255, 223, 223);
+    margin: 50px;
+}

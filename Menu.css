@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+h1, h2{
+    margin:20px;
+    text-align:center;
+    margin: auto;
+}
+
+h2{
+    width: 130px;
+}
+img{
+    width: 60px;
+}
+.type{
+    display:flex;
+}
+.item{
+    text-align: center;
+    border: white solid 3px;
+    background-image: url(https://i.pinimg.com/736x/ae/1a/1a/ae1a1a9039a791933ad6e3cb39de7476.jpg);
+    padding: 10px;
+    margin: 5px;
+    width: 180px;
+    margin: auto;
+}
+@media screen and (max-width: 600px) {
+    .type {
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+    }
+}

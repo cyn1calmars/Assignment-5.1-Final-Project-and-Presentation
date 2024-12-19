@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/cafe-pattern-background-desktop-wallpaper-vector_53876-144627.jpg);
+}
+.Timer{
+    margin: 30px;
+    background-color: rgb(160, 129, 109);
+    font-size: 50px;
+    text-align: center;
+    border: 5px white solid;
+}
+.Backbutton{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+}

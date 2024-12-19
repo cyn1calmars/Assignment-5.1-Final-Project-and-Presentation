@@ -1,0 +1,66 @@
+body{
+    background-color:#fff5ec;
+    background-image: url(https://windybot.com/img/1B1ZZdlq9s5A4Pm2BX7z.jpg);
+    background-size:cover;
+    background-size: 390px;
+    text-align: center;
+}
+h1{
+  margin-top: -10px;
+}
+/* Navigation */
+.topnav {  
+    overflow: hidden;
+    background-color: rgb(165, 42, 69);
+    padding: 20px;
+    margin-bottom:20px;
+    position:sticky;
+  }
+  .topleftnav{
+      float: left;
+      left:100%;
+      margin:auto;
+    padding-top: 20px;
+  }
+  .topcenternav{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .toprighttnav{
+      float:right;
+      right:100%;
+      margin:auto;
+      padding-top: 20px;
+  }
+  button{
+      background-color: none;
+  }
+  .topnav a {
+    color: #f2f2f2;
+    padding: 10px 50px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .toprighttnav a:hover, .topleftnav a:hover{
+    background-color: pink;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+/* Logo */
+.logo{
+  margin: 10px;
+  width: 90px;
+}
+/* Countdown Timer */
+.Timer{
+  margin: 30px;
+  color: rgb(231, 147, 223);
+  background-color: rgb(32, 2, 28);
+  font-size: 50px;
+  text-align: center;
+  border: 5px white solid;
+  font-size: 30px;
+}
